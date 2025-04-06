@@ -32,4 +32,4 @@ Use your knowledge of object-oriented programming, data structures, and algorith
 As a Disney fan, I wanted to bring the magical world of Sofia the First to life through this code. This animation recreates a royal ball at Princess Sofia’s castle's ball room, where guests arrive with music one by one. My goal was to capture the charm of the show while demonstrating inheritance, polymorphism, and algorithmic design.
 
 User-Story: As a Disney fan, I want recognizable visual elements (purple color scheme) to evoke the show's aesthetic.
-I explain this by using hex colors in the code Sofia's purple (#7E3F98) for backgrounds Enchancia gold (#FFD700) for accents.
+I explain this by using hex colors in the code Sofia's purple for backgrounds Enchancia gold for accents.
