@@ -1,0 +1,14 @@
+Images used:
+ballroom.png - https://www.pinterest.com/pin/488710997067917598/
+sofia.png - https://sofia.fandom.com/wiki/Princess_Sofia
+genericGuest.png - https://sofia.fandom.com/wiki/Baileywick
+amber.png - https://sofia.fandom.com/wiki/Princess_Amber
+james.png - https://sofia.fandom.com/wiki/Prince_James
+magical-twinkle-242245.wav - https://pixabay.com/sound-effects/search/magical/
+
+AI Usage: 
+Used ChatGPT to help debug the drawDanceFloorEffects() method on 4/5/25 
+- identified incorrect color format
+
+Used ChatGPT on 4/5/25 for inheritance structure advice to ensure 
+polymorphism between Guest subclasses
